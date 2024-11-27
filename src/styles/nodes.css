@@ -1,0 +1,26 @@
+.node {
+  padding: 8px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.node:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.node-icon {
+  margin-right: 8px;
+}
+
+.node-label {
+  font-weight: bold;
+  color: #333;
+}
+
+.node-description {
+  font-size: 12px;
+  color: #666;
+}

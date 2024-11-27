@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.x.x",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.x.x",
+    "postcss": "^8.x.x",
+    "tailwindcss": "^3.x.x"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

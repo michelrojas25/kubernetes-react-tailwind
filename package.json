@@ -1,9 +1,13 @@
 {
+  "name": "kubernetes-architecture",
+  "version": "1.0.0",
+  "private": true,
   "dependencies": {
     "lucide-react": "^0.x.x",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "5.x.x",
+    "reactflow": "^11.11.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.x.x",
